@@ -5,6 +5,7 @@ You can find projects about:
 - Stochastic processes (such as GBM, fBM, BS model)
 - Volatility modeling (such as SABR, Heston Model, Bergomi Model)
 - Portfolio optimization (such as MC simulation & Markowitz model)  
+
 To ensure understandability every project is paired with a "README" md file in order to let you know what it does
 
 You are welcome!
