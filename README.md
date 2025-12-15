@@ -1,5 +1,7 @@
 👋 Hi, I’m Alessandro Marazzi - @Maraz8 (he/him)  
-I'm currently a founder member and head of Quant Research in Bocconi Students Quantitative Finance Society. I'll use this account to showcase my main projects.
+I'm currently a founder member and head of Quant Research in Bocconi Students Quantitative Finance Society.  
+I'll use this account to showcase my main projects (all the projects are in the "Quantitative Finance" repository).  
+
 You are welcome!
 
 📫 If you need to reach me:
